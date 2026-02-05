@@ -36,7 +36,6 @@ Key highlights:
 - Vite (SWC)
 - Wouter
 - i18next and react-i18next
-- Leaflet and React-Leaflet
 - lucide-react
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
