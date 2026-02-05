@@ -103,7 +103,7 @@ Contributions are welcome. If you have suggestions, please open an issue or subm
 
 ## License
 
-No license specified. Add a LICENSE file if you plan to distribute this project.
+Distributed under the Unlicense. See [LICENSE.txt](LICENSE.txt) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
