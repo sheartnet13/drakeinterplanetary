@@ -38,6 +38,15 @@ Key highlights:
 - i18next and react-i18next
 - lucide-react
 
+## Installed Modules
+
+- [react](https://www.npmjs.com/package/react)
+- [react-dom](https://www.npmjs.com/package/react-dom)
+- [wouter](https://www.npmjs.com/package/wouter)
+- [i18next](https://www.npmjs.com/package/i18next)
+- [react-i18next](https://www.npmjs.com/package/react-i18next)
+- [lucide-react](https://www.npmjs.com/package/lucide-react)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
