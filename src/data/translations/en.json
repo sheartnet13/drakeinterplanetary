@@ -1,0 +1,298 @@
+{
+  "header": {
+    "logo": "DRAKE INTERPLANETARY",
+    "status": "OPERATIONAL"
+  },
+  "nav": {
+    "home": "HOME",
+    "specifications": "SPECIFICATIONS",
+    "careers": "CAREERS",
+    "contact": "CONTACT"
+  },
+  "home": {
+    "title": "DRAKE INTERPLANETARY",
+    "subtitle": "RUGGED. RELIABLE. INDUSTRIAL.",
+    "description": "Drake manufactures spacecraft and vehicles for those who demand durability over aesthetics. Our ships are designed to work, not to impress. Built tough for the toughest jobs.",
+    "exploreFleet": "EXPLORE FLEET",
+    "contactSales": "CONTACT SALES",
+    "ourFleet": "OUR FLEET",
+    "fleetSubtitle": "Battle-tested spacecraft for demanding operations",
+    "statsVessels": "OPERATIONAL VESSELS",
+    "statsCustomers": "SATISFIED CUSTOMERS",
+    "statsSuccess": "MISSION SUCCESS RATE",
+    "statsSupport": "SUPPORT AVAILABLE"
+  },
+  "ship": {
+    "operational": "operational",
+    "development": "in development",
+    "crew": "CREW",
+    "cargo": "CARGO",
+    "range": "RANGE",
+    "features": "FEATURES"
+  },
+  "specs": {
+    "title": "TECHNICAL SPECIFICATIONS",
+    "subtitle": "Detailed comparison of Drake Interplanetary vessels",
+    "specification": "SPECIFICATION",
+    "cutlass": "CUTLASS",
+    "dragonfly": "DRAGONFLY",
+    "herald": "HERALD",
+    "buccaneer": "BUCCANEER",
+    "corsair": "CORSAIR",
+    "vulture": "VULTURE",
+    "performanceTitle": "PERFORMANCE METRICS",
+    "performanceText": "All specifications are based on standard configurations. Performance may vary depending on modifications, cargo load, and operational conditions. Drake Interplanetary recommends regular maintenance to ensure optimal performance.",
+    "warrantyTitle": "WARRANTY & SUPPORT",
+    "warrantyText": "All Drake vessels come with a comprehensive warranty covering manufacturing defects for 24 months. Extended support packages available. 24/7 technical support hotline: 1-800-DRAKE-01",
+    "categories": {
+      "crew": "Crew Capacity",
+      "cargo": "Cargo Capacity",
+      "speed": "Max Speed",
+      "range": "Range",
+      "weapons": "Primary Weapons",
+      "hull": "Hull Integrity",
+      "fuel": "Fuel Capacity",
+      "price": "Price"
+    },
+    "values": {
+      "dualBallistic": "Dual Ballistic",
+      "dualGuns": "Dual Guns",
+      "singleCannon": "Single Cannon",
+      "twinBallistic": "Twin Ballistic",
+      "modularTurrets": "Modular Turrets",
+      "salvageArms": "Salvage Arms",
+      "reinforced": "Reinforced",
+      "heavyArmor": "Heavy Armor",
+      "lightweight": "Lightweight",
+      "standard": "Standard"
+    }
+  },
+  "careers": {
+    "title": "CAREERS AT DRAKE",
+    "subtitle": "Join our team and build the future of industrial spacecraft",
+    "whyDrake": "WHY WORK AT DRAKE?",
+    "innovation": "INNOVATION",
+    "innovationText": "Work on cutting-edge spacecraft technology and industrial solutions.",
+    "durability": "DURABILITY",
+    "durabilityText": "Build products designed to last. Our ships are built tough.",
+    "team": "TEAM",
+    "teamText": "Join a dedicated team of professionals committed to excellence.",
+    "growth": "GROWTH",
+    "growthText": "Develop your skills and advance your career with Drake.",
+    "openPositions": "OPEN POSITIONS",
+    "department": "DEPARTMENT:",
+    "location": "LOCATION:",
+    "applyNow": "APPLY NOW",
+    "processTitle": "APPLICATION PROCESS",
+    "step1Title": "SUBMIT APPLICATION",
+    "step1Text": "Complete the application form with your resume and cover letter.",
+    "step2Title": "INITIAL REVIEW",
+    "step2Text": "Our HR team reviews your application and qualifications.",
+    "step3Title": "INTERVIEW",
+    "step3Text": "Selected candidates are invited for interviews with our team.",
+    "step4Title": "OFFER",
+    "step4Text": "Successful candidates receive a job offer and benefits package.",
+    "jobTypes": {
+      "fulltime": "FULL-TIME",
+      "contract": "CONTRACT"
+    },
+    "jobs": {
+      "engineer": {
+        "title": "Spacecraft Engineer",
+        "dept": "Engineering",
+        "location": "Port Olisar Station",
+        "desc": "Design and develop next-generation Drake spacecraft. Work with our engineering team to push the boundaries of industrial ship design."
+      },
+      "sales": {
+        "title": "Sales Representative",
+        "dept": "Sales",
+        "location": "Stanton System",
+        "desc": "Represent Drake Interplanetary and close deals with corporate clients. Build relationships and expand our market presence."
+      },
+      "maintenance": {
+        "title": "Maintenance Technician",
+        "dept": "Service",
+        "location": "Multiple Locations",
+        "desc": "Provide maintenance and repair services for Drake vessels. Ensure customer satisfaction and ship reliability."
+      },
+      "designer": {
+        "title": "Industrial Designer",
+        "dept": "Design",
+        "location": "Port Olisar Station",
+        "desc": "Create functional and aesthetically industrial designs for Drake products. Contribute to our signature brutalist aesthetic."
+      },
+      "qa": {
+        "title": "Quality Assurance Specialist",
+        "dept": "Quality Control",
+        "location": "Port Olisar Station",
+        "desc": "Test and verify Drake spacecraft systems. Ensure all vessels meet our high standards for durability and reliability."
+      },
+      "logistics": {
+        "title": "Logistics Coordinator",
+        "dept": "Operations",
+        "location": "Stanton System",
+        "desc": "Manage supply chains and logistics for Drake operations. Keep our production lines running smoothly."
+      }
+    }
+  },
+  "contact": {
+    "title": "CONTACT DRAKE INTERPLANETARY",
+    "subtitle": "Get in touch with our sales and support teams",
+    "sendMessage": "SEND A MESSAGE",
+    "name": "NAME *",
+    "email": "EMAIL *",
+    "subject": "SUBJECT *",
+    "message": "MESSAGE *",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "your@email.com",
+    "subjectPlaceholder": "Message subject",
+    "messagePlaceholder": "Your message here...",
+    "send": "SEND MESSAGE",
+    "sent": "MESSAGE SENT!",
+    "infoTitle": "CONTACT INFORMATION",
+    "salesDept": "SALES DEPARTMENT",
+    "salesInfo": "Phone: +1 (800) DRAKE-01\nEmail: sales@drake-interplanetary.com\nHours: Available 24/7",
+    "supportDept": "SUPPORT DEPARTMENT",
+    "supportInfo": "Phone: +1 (800) DRAKE-02\nEmail: support@drake-interplanetary.com\nResponse Time: Under 1 hour",
+    "serviceCenters": "SERVICE CENTERS",
+    "centers": "• Crusader Industries Orbital\n• Stanton Prime Shipyard\n• Port Tressler Maintenance\n• Grim Hex Outpost"
+  },
+  "notFound": {
+    "title": "404",
+    "subtitle": "Page Not Found",
+    "description": "Sorry, the page you're looking for doesn't exist.",
+    "buttonBack": "Back to Home"
+  },
+  "error": {
+    "title": "An unexpected error occurred.",
+    "reload": "Reload Page"
+  },
+  "loading": {
+    "initializing": "INITIALIZING SYSTEMS"
+  },
+  "footer": {
+    "company": "DRAKE INTERPLANETARY",
+    "description": "Rugged, reliable industrial spacecraft and solutions for the verse. Drake builds ships that work, not ships that impress.",
+    "navigation": "NAVIGATION",
+    "home": "Home",
+    "specifications": "Specifications",
+    "careers": "Careers",
+    "contact": "Contact",
+    "connect": "CONNECT",
+    "rights": "DRAKE INTERPLANETARY. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Policy",
+    "terms": "Terms of Service"
+  },
+  "privacy": {
+    "title": "PRIVACY POLICY",
+    "lastUpdated": "Last updated: January 2026",
+    "section1Title": "1. Information We Collect",
+    "section1Text": "Drake Interplanetary collects personal information necessary to provide quality services. This includes contact data, transaction information, and technical data from ship usage. All information is handled with the highest security standards and is used only to improve our services and products.",
+    "section2Title": "2. Use of Information",
+    "section2Text": "We use your information to process orders, provide technical support, improve our products, and communicate important updates about your Drake vessels. We do not sell or share your personal information with third parties for marketing purposes. Your privacy is our priority.",
+    "section3Title": "3. Data Security",
+    "section3Text": "We implement robust security measures to protect your information. Our systems use military-grade encryption and are monitored 24/7. All transactions are processed through secure channels. In the unlikely event of a security breach, we will notify affected users immediately.",
+    "section4Title": "4. Your Rights",
+    "section4Text": "You have the right to access, correct, or delete your personal information at any time. You can request a copy of all data we have about you or request complete deletion of your account. To exercise these rights, contact privacy@drake-interplanetary.com"
+  },
+  "terms": {
+    "title": "TERMS OF SERVICE",
+    "lastUpdated": "Last updated: January 2026",
+    "section1Title": "1. Terms Agreement",
+    "section1Text": "By accessing and using Drake Interplanetary services, you agree to be bound by these terms of service. Drake reserves the right to modify these terms at any time. Modifications will take effect immediately upon posting. It is your responsibility to review these terms periodically.",
+    "section2Title": "2. Product Warranty",
+    "section2Text": "All Drake vessels come with a standard 24-month warranty covering manufacturing defects. The warranty does not cover damage caused by misuse, negligence, unauthorized modifications, or normal wear and tear. Drake reserves the right to inspect any vessel under warranty claim before providing repair or replacement.",
+    "section3Title": "3. Limitation of Liability",
+    "section3Text": "Drake Interplanetary is not responsible for indirect, incidental, or consequential damages resulting from the use of our products. Our liability is limited to the purchase price of the product. Spacecraft operations carry inherent risks that the operator accepts when using our products.",
+    "section4Title": "4. Governing Law",
+    "section4Text": "These terms are governed by the laws of the Stanton System. Any disputes will be resolved through binding arbitration at Port Olisar Station. By accepting these terms, you waive your right to a jury trial for any disputes related to Drake Interplanetary or its products."
+  },
+  "cookies": {
+    "title": "COOKIE POLICY",
+    "lastUpdated": "Last updated: January 2026",
+    "section1Title": "1. What are Cookies?",
+    "section1Text": "Cookies are small text files stored on your device when you visit our website. Drake Interplanetary uses cookies to improve site functionality, analyze traffic, and personalize your experience. Cookies help us understand how you interact with our site and provide you with better service.",
+    "section2Title": "2. Types of Cookies We Use",
+    "section2Text": "We use essential cookies necessary for basic site functionality, performance cookies to analyze how the site is used, functional cookies to remember your preferences, and analytics cookies to improve our services. We do not use third-party advertising cookies to track you across other websites.",
+    "section3Title": "3. Managing Cookies",
+    "section3Text": "You can control and/or delete cookies as you wish. You can delete all cookies that are already on your device and set most browsers to prevent them from being placed. However, if you do this, you may have to manually adjust some preferences each time you visit our site and some services and functionalities may not work properly.",
+    "section4Title": "4. Policy Updates",
+    "section4Text": "Drake Interplanetary reserves the right to update this cookie policy at any time. We will notify you of significant changes by posting the new policy on this page with a new 'Last updated' date. We recommend reviewing this policy periodically to stay informed about how we use cookies."
+  },
+  "ships": {
+    "cutlass-black": {
+      "name": "CUTLASS",
+      "designation": "Medium Fighter/Cargo",
+      "description": "The workhorse of Drake Interplanetary. The Cutlass is a versatile medium fighter designed for combat, cargo transport, and everything in between. Built tough, built to last.",
+      "features": [
+        "Dual Ballistic Cannons",
+        "Reinforced Hull",
+        "Modular Cargo Bay",
+        "Advanced Targeting System",
+        "Atmospheric Flight Capable"
+      ]
+    },
+    "dragonfly-yellow": {
+      "name": "DRAGONFLY",
+      "designation": "Ground Vehicle",
+      "description": "The ultimate terrain vehicle. Built for harsh environments and unforgiving landscapes. The Dragonfly gets you where you need to go, no matter the conditions.",
+      "features": [
+        "All-Terrain Suspension",
+        "Heavy Armor Plating",
+        "Dual Mounted Guns",
+        "Cargo Capacity",
+        "Environmental Protection"
+      ]
+    },
+    "herald": {
+      "name": "HERALD",
+      "designation": "Data Runner",
+      "description": "Fast, reliable, and built for the data-running business. The Herald combines speed with durability. Get your data where it needs to go.",
+      "features": [
+        "High-Speed Engines",
+        "Encrypted Data Vault",
+        "Stealth Systems",
+        "Quick Escape Pods",
+        "Reinforced Cockpit"
+      ]
+    },
+    "buccaneer": {
+      "name": "BUCCANEER",
+      "designation": "Light Fighter",
+      "description": "Aggressive, nimble, and ready for combat. The Buccaneer is Drake's answer to light fighter requirements. Small but deadly.",
+      "features": [
+        "Twin Ballistic Cannons",
+        "Agile Flight Model",
+        "Compact Design",
+        "Rapid Acceleration",
+        "Combat Proven"
+      ]
+    },
+    "corsair": {
+      "name": "CORSAIR",
+      "designation": "Heavy Cargo",
+      "description": "When you need to move serious cargo, the Corsair is your ship. Built for hauling, built for profit. No frills, just results.",
+      "features": [
+        "Massive Cargo Bay",
+        "Reinforced Fuselage",
+        "Heavy Shielding",
+        "Modular Turrets",
+        "Durable Landing Gear"
+      ]
+    },
+    "vulture": {
+      "name": "VULTURE",
+      "designation": "Salvage Specialist",
+      "description": "Built for salvage operations. The Vulture is equipped with cutting-edge salvage equipment. Extract value from the wreckage.",
+      "features": [
+        "Salvage Arm Systems",
+        "Reinforced Hull",
+        "Cargo Bay",
+        "Protective Shielding",
+        "Precision Maneuvering"
+      ]
+    }
+  }
+}
+

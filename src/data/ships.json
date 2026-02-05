@@ -1,0 +1,152 @@
+[
+  {
+    "id": "cutlass-black",
+    "name": "CUTLASS",
+    "designation": "Medium Fighter/Cargo",
+    "image": "cutlass.webp",
+    "description": "The workhorse of Drake Interplanetary. The Cutlass is a versatile medium fighter designed for combat, cargo transport, and everything in between. Built tough, built to last.",
+    "specs": {
+      "crew": "2",
+      "cargo": "46 SCU",
+      "speed": "250 m/s",
+      "range": "1,200,000 km",
+      "weapons": "dualBallistic",
+      "hull": "reinforced",
+      "fuel": "8,000 L",
+      "price": "1,100,000 UEC"
+    },
+    "features": [
+      "Dual Ballistic Cannons",
+      "Reinforced Hull",
+      "Modular Cargo Bay",
+      "Advanced Targeting System",
+      "Atmospheric Flight Capable"
+    ],
+    "status": "operational"
+  },
+  {
+    "id": "dragonfly-yellow",
+    "name": "DRAGONFLY",
+    "designation": "Ground Vehicle",
+    "image": "dragonfly.webp",
+    "description": "The ultimate terrain vehicle. Built for harsh environments and unforgiving landscapes. The Dragonfly gets you where you need to go, no matter the conditions.",
+    "specs": {
+      "crew": "2",
+      "cargo": "2 SCU",
+      "speed": "180 m/s",
+      "range": "500 km",
+      "weapons": "dualGuns",
+      "hull": "heavyArmor",
+      "fuel": "2,000 L",
+      "price": "380,000 UEC"
+    },
+    "features": [
+      "All-Terrain Suspension",
+      "Heavy Armor Plating",
+      "Dual Mounted Guns",
+      "Cargo Capacity",
+      "Environmental Protection"
+    ],
+    "status": "operational"
+  },
+  {
+    "id": "herald",
+    "name": "HERALD",
+    "designation": "Data Runner",
+    "image": "herald.webp",
+    "description": "Fast, reliable, and built for the data-running business. The Herald combines speed with durability. Get your data where it needs to go.",
+    "specs": {
+      "crew": "1",
+      "cargo": "4 SCU",
+      "speed": "320 m/s",
+      "range": "2,000,000 km",
+      "weapons": "singleCannon",
+      "hull": "lightweight",
+      "fuel": "6,000 L",
+      "price": "2,100,000 UEC"
+    },
+    "features": [
+      "High-Speed Engines",
+      "Encrypted Data Vault",
+      "Stealth Systems",
+      "Quick Escape Pods",
+      "Reinforced Cockpit"
+    ],
+    "status": "operational"
+  },
+  {
+    "id": "buccaneer",
+    "name": "BUCCANEER",
+    "designation": "Light Fighter",
+    "image": "buccaneer.webp",
+    "description": "Aggressive, nimble, and ready for combat. The Buccaneer is Drake's answer to light fighter requirements. Small but deadly.",
+    "specs": {
+      "crew": "1",
+      "cargo": "2 SCU",
+      "speed": "290 m/s",
+      "range": "1,000,000 km",
+      "weapons": "twinBallistic",
+      "hull": "standard",
+      "fuel": "5,000 L",
+      "price": "825,000 UEC"
+    },
+    "features": [
+      "Twin Ballistic Cannons",
+      "Agile Flight Model",
+      "Compact Design",
+      "Rapid Acceleration",
+      "Combat Proven"
+    ],
+    "status": "operational"
+  },
+  {
+    "id": "corsair",
+    "name": "CORSAIR",
+    "designation": "Heavy Cargo",
+    "image": "corsair.webp",
+    "description": "When you need to move serious cargo, the Corsair is your ship. Built for hauling, built for profit. No frills, just results.",
+    "specs": {
+      "crew": "3",
+      "cargo": "192 SCU",
+      "speed": "220 m/s",
+      "range": "800,000 km",
+      "weapons": "modularTurrets",
+      "hull": "reinforced",
+      "fuel": "12,000 L",
+      "price": "3,500,000 UEC"
+    },
+    "features": [
+      "Massive Cargo Bay",
+      "Reinforced Fuselage",
+      "Heavy Shielding",
+      "Modular Turrets",
+      "Durable Landing Gear"
+    ],
+    "status": "operational"
+  },
+  {
+    "id": "vulture",
+    "name": "VULTURE",
+    "designation": "Salvage Specialist",
+    "image": "vulture.webp",
+    "description": "Built for salvage operations. The Vulture is equipped with cutting-edge salvage equipment. Extract value from the wreckage.",
+    "specs": {
+      "crew": "2",
+      "cargo": "64 SCU",
+      "speed": "210 m/s",
+      "range": "1,500,000 km",
+      "weapons": "salvageArms",
+      "hull": "reinforced",
+      "fuel": "9,000 L",
+      "price": "1,800,000 UEC"
+    },
+    "features": [
+      "Salvage Arm Systems",
+      "Reinforced Hull",
+      "Cargo Bay",
+      "Protective Shielding",
+      "Precision Maneuvering"
+    ],
+    "status": "development"
+  }
+]
