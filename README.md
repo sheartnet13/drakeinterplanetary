@@ -1,16 +1,124 @@
-# React + Vite
+<a name="readme-top"></a>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Drake Interplanetary — Project React
 
-Currently, two official plugins are available:
+Corporate website inspired by Drake Interplanetary with an industrial/brutalist design, multi-page navigation, and multilingual support.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
 
-## React Compiler
+- [About the Project](#about-the-project)
+- [Built With](#built-with)
+- [Getting Started](#getting-started)
+	- [Prerequisites](#prerequisites)
+	- [Installation](#installation)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgments](#acknowledgments)
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+## About the Project
 
-## Expanding the ESLint configuration
+This project is a fictional corporate site for Drake Interplanetary built as a front-end exercise. It focuses on a strong industrial aesthetic, modular components, and multilingual support.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Key highlights:
+- Industrial/brutalist visual design with modular CSS
+- Client-side routing and multi-page structure
+- i18n with Spanish as the default language
+- Loading screen with animated progress indicator
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Built With
+
+- React
+- Vite (SWC)
+- Wouter
+- i18next and react-i18next
+- Leaflet and React-Leaflet
+- lucide-react
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Getting Started
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+- Node.js 18+
+- npm
+
+### Installation
+
+1. Clone the repository
+2. Install dependencies:
+
+```
+npm install
+```
+
+3. Start the development server:
+
+```
+npm run dev
+```
+
+4. Build for production:
+
+```
+npm run build
+```
+
+5. Preview the production build:
+
+```
+npm run preview
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Usage
+
+- The language switcher persists the selected language in localStorage.
+- Translations are stored in [src/data/translations](src/data/translations).
+- Main app entry is [src/main.jsx](src/main.jsx).
+- i18n configuration lives in [src/i18n.js](src/i18n.js).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Roadmap
+
+- Add automated tests
+- Improve accessibility for interactive components
+- Add a gallery/demo section for ships
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Contributing
+
+Contributions are welcome. If you have suggestions, please open an issue or submit a pull request.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## License
+
+No license specified. Add a LICENSE file if you plan to distribute this project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Contact
+
+Course project — Drake Interplanetary (fictional).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Acknowledgments
+
+- Best-README-Template
+- Vite
+- React
+- i18next
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
