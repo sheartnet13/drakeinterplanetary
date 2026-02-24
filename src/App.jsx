@@ -20,6 +20,7 @@ function Router() {
       <Route path={"/specifications"} component={Specifications} />
       <Route path={"/privacy"} component={Privacy} />
       <Route path={"/terms"} component={Terms} />
+      <Route path={"/cookies"} component={Cookies} />
       <Route path={"/contact"} component={Contact} />
       <Route path={"/careers"} component={Careers} />
       <Route path={"/404"} component={NotFound} />

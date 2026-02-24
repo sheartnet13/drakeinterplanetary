@@ -80,6 +80,8 @@
     "growth": "CRECIMIENTO",
     "growthText": "Desarrolla tus habilidades y avanza tu carrera con Drake.",
     "openPositions": "POSICIONES ABIERTAS",
+    "searchPlaceholder": "Buscar...",
+    "noResults": "No se encontraron resultados",
     "department": "DEPARTAMENTO:",
     "location": "UBICACIÓN:",
     "applyNow": "APLICAR AHORA",
@@ -95,6 +97,7 @@
     "jobTypes": {
       "fulltime": "TIEMPO COMPLETO",
       "contract": "CONTRATO"
+    
     },
     "jobs": {
       "engineer": {

@@ -1,28 +1,16 @@
-/**
- * Footer Component - Drake Interplanetary
- * 
- * Design Philosophy: Industrial Salvage Brutalism
- * - Dark metal plate background
- * - Industrial red accent elements
- * - Multiple columns with corporate information
- * - Social media links and legal information
- */
-
 import { Link } from "wouter";
 import { useTranslation } from "react-i18next";
 import "./Footer.css";
 import starCitizenIcon from "../../assets/icons/starcitizen.webp";
 import githubIcon from "../../assets/icons/github.webp";
+import instagramIcon from "../../assets/icons/instagram.webp";
+import youtubeIcon from "../../assets/icons/youtube.webp";
 
 const socialLinks = [
   { name: "GitHub", icon: githubIcon, url: "https://github.com/sheartnet13/drakeinterplanetary" },
-  { name: "RobertSpacesIndustries", icon: starCitizenIcon, url: "https://robertsspaceindustries.com/en/" },
-];
-
-const legalLinks = [
-  { label: "Privacy Policy", href: "#" },
-  { label: "Cookie Policy", href: "#" },
-  { label: "Terms of Service", href: "#" },
+  { name: "RobertSpaceIndustries", icon: starCitizenIcon, url: "https://robertsspaceindustries.com/en/" },
+  { name: "Instagram", icon: instagramIcon, url: "https://www.instagram.com" },
+  { name: "YouTube", icon: youtubeIcon, url: "https://www.youtube.com" },
 ];
 
 export default function Footer() {
@@ -41,35 +29,17 @@ export default function Footer() {
         {/* Company Info Section */}
         <div className="footer-section">
           <h3 className="footer-title">{t('footer.company')}</h3>
-          <p className="footer-description">
-            {t('footer.description')}
-          </p>
+          <p className="footer-description">{t('footer.description')}</p>
         </div>
 
         {/* Quick Links Section */}
         <div className="footer-section">
           <h3 className="footer-title">{t('footer.navigation')}</h3>
           <ul className="footer-links">
-            <li>
-              <Link href="/">
-                <span className="footer-link">{t('footer.home')}</span>
-              </Link>
-            </li>
-            <li>
-              <Link href="/specifications">
-                <span className="footer-link">{t('footer.specifications')}</span>
-              </Link>
-            </li>
-            <li>
-              <Link href="/careers">
-                <span className="footer-link">{t('footer.careers')}</span>
-              </Link>
-            </li>
-            <li>
-              <Link href="/contact">
-                <span className="footer-link">{t('footer.contact')}</span>
-              </Link>
-            </li>
+            <li><Link href="/"><span className="footer-link">{t('footer.home')}</span></Link></li>
+            <li><Link href="/specifications"><span className="footer-link">{t('footer.specifications')}</span></Link></li>
+            <li><Link href="/careers"><span className="footer-link">{t('footer.careers')}</span></Link></li>
+            <li><Link href="/contact"><span className="footer-link">{t('footer.contact')}</span></Link></li>
           </ul>
         </div>
 
@@ -86,11 +56,7 @@ export default function Footer() {
                 className="social-link"
                 title={link.name}
               >
-                {typeof link.icon === 'string' && link.icon.includes('.') ? (
-                  <img src={link.icon} alt={link.name} className="social-icon-img" />
-                ) : (
-                  <span className="social-icon">{link.icon}</span>
-                )}
+                <img src={link.icon} alt={link.name} className="social-icon-img" />
               </a>
             ))}
           </div>
