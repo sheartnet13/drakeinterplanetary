@@ -11,7 +11,7 @@ import { collection, getDocs } from "firebase/firestore";
 export default function Careers() {
   const { t } = useTranslation();
   const [jobListings, setJobListings] = useState([]);
-  const [loading, setLoading] = useState(true);
+  const [isLoading, setIsLoading] = useState(true);
   const [search, setSearch] = useState("");
 
   useEffect(() => {
@@ -33,7 +33,7 @@ export default function Careers() {
       } catch (error) {
         console.error("Error fetching jobs from Firestore:", error);
       } finally {
-        setLoading(false);
+        setIsLoading(false);
       }
     };
 
@@ -71,7 +71,7 @@ export default function Careers() {
           </div>
 
           <div className="jobs-list">
-            {loading ? (
+            {isLoading ? (
               <p>{t('careers.loading')}</p>
             ) : filteredJobs.length > 0 ? (
               filteredJobs.map((job) => (

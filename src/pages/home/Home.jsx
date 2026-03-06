@@ -49,13 +49,13 @@ const emptyForm = {
 export default function Home() {
   const { t } = useTranslation();
   const [ships, setShips] = useState([]);
-  const [loading, setLoading] = useState(true);
-  const [showModal, setShowModal] = useState(false);
+  const [isLoading, setIsLoading] = useState(true);
+  const [isModalOpen, setIsModalOpen] = useState(false);
   const [editingId, setEditingId] = useState(null);
   const [form, setForm] = useState(emptyForm);
   const [imageFile, setImageFile] = useState(null);
   const [imagePreview, setImagePreview] = useState(null);
-  const [uploading, setUploading] = useState(false);
+  const [isUploading, setIsUploading] = useState(false);
 
   const fetchShips = async () => {
     try {
@@ -72,7 +72,7 @@ export default function Home() {
     } catch (error) {
       console.error("Error fetching ships:", error);
     } finally {
-      setLoading(false);
+      setIsLoading(false);
     }
   };
 
@@ -85,7 +85,7 @@ export default function Home() {
     setForm(emptyForm);
     setImageFile(null);
     setImagePreview(null);
-    setShowModal(true);
+    setIsModalOpen(true);
   };
 
   const openEdit = (ship) => {
@@ -100,7 +100,7 @@ export default function Home() {
     });
     setImageFile(null);
     setImagePreview(ship.imageBase64 || ship.imageUrl || imageMap[ship.imageKey] || null);
-    setShowModal(true);
+    setIsModalOpen(true);
   };
 
   const handleDelete = async (docId) => {
@@ -130,7 +130,7 @@ export default function Home() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    setUploading(true);
+    setIsUploading(true);
     try {
       let imageBase64 = null;
       if (imageFile) {
@@ -158,7 +158,7 @@ export default function Home() {
     } catch (error) {
       console.error("Error saving ship:", error);
     } finally {
-      setUploading(false);
+      setIsUploading(false);
     }
   };
 
@@ -201,7 +201,7 @@ export default function Home() {
           </button>
         </div>
 
-        {loading ? (
+        {isLoading ? (
           <p className="fleet-loading">{t('careers.loading')}</p>
         ) : (
           <div className="fleet-grid">
@@ -232,7 +232,7 @@ export default function Home() {
       <Footer />
 
       {/* CRUD Modal */}
-      {showModal && (
+      {isModalOpen && (
         <div className="modal-overlay" onClick={() => setShowModal(false)}>
           <div className="modal-container" onClick={(e) => e.stopPropagation()}>
             <div className="modal-header">
@@ -297,8 +297,8 @@ export default function Home() {
                 <button type="button" className="cta-button secondary" onClick={() => setShowModal(false)}>
                   {t('fleet.cancel')}
                 </button>
-                <button type="submit" className="cta-button" disabled={uploading}>
-                  {uploading ? '...' : (editingId ? t('fleet.save') : t('fleet.create'))}
+                <button type="submit" className="cta-button" disabled={isUploading}>
+                  {isUploading ? '...' : (editingId ? t('fleet.save') : t('fleet.create'))}
                 </button>
               </div>
             </form>

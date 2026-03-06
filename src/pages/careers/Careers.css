@@ -449,7 +449,7 @@
 /* Search Section */
 .search-section {
   display: flex;
-  justify-content: flex-end; /* Lo coloca a la derecha */
+  justify-content: flex-end; /* Aligns the search bar to the right */
   margin-bottom: 1.5rem;
 }
 
@@ -477,7 +477,7 @@
   box-shadow: 0 0 8px rgba(139, 58, 58, 0.5);
 }
 
-/* Para que el buscador se alinee al lado del título en pantallas grandes */
+/* Aligns the search bar next to the title on large screens */
 .jobs-section-header {
   display: flex;
   justify-content: space-between;
