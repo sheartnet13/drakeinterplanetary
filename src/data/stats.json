@@ -1,0 +1,22 @@
+[
+  {
+    "id": "vessels",
+    "number": "6+",
+    "labelKey": "home.statsVessels"
+  },
+  {
+    "id": "customers",
+    "number": "50K+",
+    "labelKey": "home.statsCustomers"
+  },
+  {
+    "id": "success",
+    "number": "100%",
+    "labelKey": "home.statsSuccess"
+  },
+  {
+    "id": "support",
+    "number": "24/7",
+    "labelKey": "home.statsSupport"
+  }
+]

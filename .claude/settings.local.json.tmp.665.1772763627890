@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(json.dumps\\(d.get\\(''home'', {}\\), indent=2\\)\\)\")",
+      "WebFetch(domain:robertsspaceindustries.com)",
+      "Bash(curl -s -L \"https://robertsspaceindustries.com/en/comm-link/rss\" --max-time 10)",
+      "Bash(npm install firebase)",
+      "Bash(firebase --version)",
+      "Bash(npm install -g firebase-tools)",
+      "Bash(firebase login)",
+      "Bash(timeout 8 npm run dev)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\Equipo\\.claude\\projects\\h--Cursos-Clase-DAM-LND---Lenguajes-de-marcas-Actividades-Terminado-UT4-Project-React-project-react\\memory"
+    ]
+  }
+}

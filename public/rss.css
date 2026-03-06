@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=IBM+Plex+Sans:wght@400;600&display=swap');
+
+/* ── Hide technical fields ───────────────────────────────── */
+atom\:link,
+guid,
+language,
+lastBuildDate,
+channel > link {
+  display: none;
+}
+
+/* ── Root ────────────────────────────────────────────────── */
+rss {
+  display: block;
+  background: #0a0a0a;
+  min-height: 100vh;
+  padding: 0 0 4rem 0;
+  color: #d0d0d0;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+/* ── Channel header ──────────────────────────────────────── */
+channel {
+  display: block;
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+channel > title {
+  display: block;
+  font-family: 'Space Mono', monospace;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #a9a9a9;
+  letter-spacing: 0.08em;
+  padding: 2.5rem 0 0.5rem 0;
+  border-bottom: 3px solid #8b3a3a;
+  margin-bottom: 0.75rem;
+}
+
+channel > description {
+  display: block;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 0.95rem;
+  color: #666;
+  padding-bottom: 2.5rem;
+  border-bottom: 1px solid #1e1e1e;
+  margin-bottom: 2rem;
+}
+
+/* ── Items ───────────────────────────────────────────────── */
+item {
+  display: block;
+  background: linear-gradient(135deg, #141414 0%, #1c1c1c 50%, #141414 100%);
+  border: 1px solid #2a2a2a;
+  border-left: 3px solid #8b3a3a;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1rem;
+}
+
+item > title {
+  display: block;
+  font-family: 'Space Mono', monospace;
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #c0c0c0;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.4rem;
+}
+
+item > category {
+  display: inline-block;
+  font-family: 'Space Mono', monospace;
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #8b3a3a;
+  border: 1px solid #8b3a3a;
+  padding: 0.15rem 0.45rem;
+  margin-bottom: 0.5rem;
+}
+
+item > pubDate {
+  display: block;
+  font-family: 'Space Mono', monospace;
+  font-size: 0.65rem;
+  color: #444;
+  letter-spacing: 0.07em;
+  margin-bottom: 0.6rem;
+}
+
+item > description {
+  display: block;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 0.9rem;
+  color: #888;
+  line-height: 1.7;
+  margin-bottom: 0.75rem;
+}
+
+item > link {
+  display: inline-block;
+  font-family: 'Space Mono', monospace;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #8b3a3a;
+  border: 1px solid #8b3a3a;
+  padding: 0.3rem 0.75rem;
+  text-decoration: none;
+}

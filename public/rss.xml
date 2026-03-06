@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drake Interplanetary Comm-Link</title>
+    <link>https://jobs-d4e94.web.app/comm-link</link>
+    <description>Official transmissions, engineering updates, and fleet operations news from Drake Interplanetary.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 Feb 2026 14:30:00 +0000</lastBuildDate>
+    <atom:link href="https://jobs-d4e94.web.app/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>CUTLASS BLACK: COMBAT SYSTEMS UPGRADE v2.4</title>
+      <link>https://jobs-d4e94.web.app/comm-link/1</link>
+      <description>Our engineering team has finalized the combat systems upgrade for the Cutlass Black. The v2.4 update brings enhanced targeting algorithms, improved ballistic synchronization, and a new threat assessment module for the onboard computer.</description>
+      <category>Engineering</category>
+      <pubDate>Sat, 28 Feb 2026 14:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://jobs-d4e94.web.app/comm-link/1</guid>
+    </item>
+
+    <item>
+      <title>DRAKE Q1 2026 PRODUCTION REPORT</title>
+      <link>https://jobs-d4e94.web.app/comm-link/2</link>
+      <description>Drake Interplanetary reports a record production quarter. Vessel output increased by 18% across all manufacturing facilities in the Stanton system, driven by growing demand for the Corsair and Vulture models.</description>
+      <category>Transmission</category>
+      <pubDate>Fri, 20 Feb 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://jobs-d4e94.web.app/comm-link/2</guid>
+    </item>
+
+    <item>
+      <title>CORSAIR CARGO OPERATIONS: A VISUAL GUIDE</title>
+      <link>https://jobs-d4e94.web.app/comm-link/3</link>
+      <description>Our fleet operations team has produced a comprehensive video tutorial on maximizing cargo efficiency with the Corsair Heavy Cargo. From loading procedures to jump point navigation, this guide covers every aspect.</description>
+      <category>Fleet Ops</category>
+      <pubDate>Sun, 15 Feb 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://jobs-d4e94.web.app/comm-link/3</guid>
+    </item>
+
+    <item>
+      <title>VULTURE SALVAGE ARM: SOFTWARE UPDATE 1.9.2</title>
+      <link>https://jobs-d4e94.web.app/comm-link/4</link>
+      <description>The latest software update for the Vulture's salvage arm system brings improved precision targeting, a new auto-sort module for recovered materials, and better integration with the onboard cargo management system.</description>
+      <category>Engineering</category>
+      <pubDate>Tue, 10 Feb 2026 16:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://jobs-d4e94.web.app/comm-link/4</guid>
+    </item>
+
+    <item>
+      <title>MESSAGE FROM DRAKE CEO: EXPANSION INTO NEW SYSTEMS</title>
+      <link>https://jobs-d4e94.web.app/comm-link/5</link>
+      <description>Drake Interplanetary is proud to announce the expansion of our operations into new territories. New service centers, parts depots, and sales offices will be operational by end of Q2 2026.</description>
+      <category>Transmission</category>
+      <pubDate>Thu, 05 Feb 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://jobs-d4e94.web.app/comm-link/5</guid>
+    </item>
+
+    <item>
+      <title>DRAGONFLY ALL-TERRAIN REVIEW: MICROTECH TRIALS</title>
+      <link>https://jobs-d4e94.web.app/comm-link/6</link>
+      <description>Our test team put the Dragonfly through rigorous trials on frozen tundra and volcanic zones. The results confirm what Drake has always known — the Dragonfly outperforms in extreme conditions where others fail completely.</description>
+      <category>Fleet Ops</category>
+      <pubDate>Fri, 30 Jan 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://jobs-d4e94.web.app/comm-link/6</guid>
+    </item>
+
+    <item>
+      <title>HERALD DATA VAULT: NEW ENCRYPTION STANDARD</title>
+      <link>https://jobs-d4e94.web.app/comm-link/7</link>
+      <description>Drake's data security team has integrated the new military-certified Quantum Encryption Standard into all Herald units manufactured from January 2026 onwards. Existing owners can visit any service center for the retrofit.</description>
+      <category>Engineering</category>
+      <pubDate>Sun, 25 Jan 2026 15:20:00 +0000</pubDate>
+      <guid isPermaLink="true">https://jobs-d4e94.web.app/comm-link/7</guid>
+    </item>
+
+    <item>
+      <title>DRAKE JOINS STANTON INDUSTRIAL COALITION</title>
+      <link>https://jobs-d4e94.web.app/comm-link/8</link>
+      <description>Drake Interplanetary has officially joined the Stanton Industrial Coalition, a new alliance of industrial manufacturers committed to sustainable practices and worker safety standards throughout the system.</description>
+      <category>Dispatch</category>
+      <pubDate>Tue, 20 Jan 2026 09:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://jobs-d4e94.web.app/comm-link/8</guid>
+    </item>
+
+    <item>
+      <title>INSIDE DRAKE: ENGINEERING TEAM SPOTLIGHT</title>
+      <link>https://jobs-d4e94.web.app/comm-link/9</link>
+      <description>Go behind the scenes at Drake's Port Olisar engineering facility. Meet the team responsible for the rugged, reliable vessels trusted by thousands of operators across the verse.</description>
+      <category>Dispatch</category>
+      <pubDate>Thu, 15 Jan 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://jobs-d4e94.web.app/comm-link/9</guid>
+    </item>
+
+    <item>
+      <title>BUCCANEER PERFORMANCE ANALYSIS: COMBAT REPORT</title>
+      <link>https://jobs-d4e94.web.app/comm-link/10</link>
+      <description>An independent performance analysis of the Buccaneer light fighter confirms superior speed and agility metrics compared to similar class vessels. Full ballistic performance data and flight model comparisons included.</description>
+      <category>Engineering</category>
+      <pubDate>Sat, 10 Jan 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://jobs-d4e94.web.app/comm-link/10</guid>
+    </item>
+
+    <item>
+      <title>DRAKE CUSTOMER SUPPORT: 24/7 COVERAGE EXPANSION</title>
+      <link>https://jobs-d4e94.web.app/comm-link/11</link>
+      <description>Drake Interplanetary is expanding its customer support operations to provide true 24/7 coverage across all time zones. New support centers in three additional locations will reduce average response times by 40%.</description>
+      <category>Transmission</category>
+      <pubDate>Mon, 05 Jan 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://jobs-d4e94.web.app/comm-link/11</guid>
+    </item>
+
+    <item>
+      <title>PORT OLISAR SERVICE CENTER: GRAND REOPENING</title>
+      <link>https://jobs-d4e94.web.app/comm-link/12</link>
+      <description>After extensive renovations, the Drake Interplanetary service center at Port Olisar Station has officially reopened. The expanded facility features 24 service bays, a parts warehouse, and a dedicated Vulture maintenance suite.</description>
+      <category>Fleet Ops</category>
+      <pubDate>Sat, 20 Dec 2025 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://jobs-d4e94.web.app/comm-link/12</guid>
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "CUTLASS BLACK: COMBAT SYSTEMS UPGRADE v2.4",
+    "channel": "engineering",
+    "type": "post",
+    "date": "2026-02-28T14:30:00Z",
+    "excerpt": "Our engineering team has finalized the combat systems upgrade for the Cutlass Black. The v2.4 update brings enhanced targeting algorithms, improved ballistic synchronization, and a new threat assessment module for the onboard computer.",
+    "content": [
+      "Our engineering team has finalized the combat systems upgrade for the Cutlass Black. After eighteen months of research and field testing, the v2.4 update is ready for deployment across all active fleet units.",
+      "The new targeting suite introduces adaptive ballistic prediction algorithms that account for variable atmospheric conditions, target velocity vectors, and gimbal lag compensation. In controlled test scenarios, hit probability improved by 23% at ranges exceeding 800 meters.",
+      "The threat assessment module — codenamed TALON — runs continuously in the background, classifying detected contacts by hull signature, shield output, and emission profile. Pilots will see a simplified readout on the MFD showing threat tier and recommended engagement distance.",
+      "Synchronization between the dual S3 weapon hardpoints has also been overhauled. The new ballistic sync engine reduces dispersion at sustained fire rates, preventing the harmonic divergence that affected earlier Cutlass Black units during extended engagements.",
+      "The update will be rolled out via service centers starting next month. Owners can also request a remote firmware push through the Drake operator portal. Existing warranty terms remain unchanged."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "DRAKE Q1 2026 PRODUCTION REPORT",
+    "channel": "transmission",
+    "type": "announcement",
+    "date": "2026-02-20T09:00:00Z",
+    "excerpt": "Drake Interplanetary reports a record production quarter. Vessel output increased by 18% across all manufacturing facilities in the Stanton system, driven by growing demand for the Corsair and Vulture models.",
+    "content": [
+      "Drake Interplanetary is proud to report a record-breaking first quarter for fiscal year 2026. Total vessel output across all Stanton manufacturing facilities increased by 18% compared to Q1 2025, representing the strongest production period in company history.",
+      "Demand for the Corsair Heavy Cargo variant reached an all-time high, accounting for 34% of total units shipped. The Vulture salvage platform followed closely, driven by a surge in independent salvage contractor licensing in the Pyro corridor.",
+      "Our Lorville facility completed a major floor expansion in January, adding twelve additional assembly stations dedicated to mid-size hull production. The Port Tressler orbital facility also received new robotic welding arrays, cutting average hull assembly time by 11%.",
+      "The Buccaneer light fighter saw renewed interest following a series of independent performance reviews that placed it at the top of its class for raw speed and agility. Orders for Q2 are already 40% ahead of the same period last year.",
+      "Drake remains committed to accessible, durable spacecraft for working pilots. We reinvest production gains directly into workforce expansion, facility improvements, and warranty program enhancements. Full financial disclosure is available in the investor relations portal."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "CORSAIR CARGO OPERATIONS: A VISUAL GUIDE",
+    "channel": "fleetops",
+    "type": "video",
+    "date": "2026-02-15T12:00:00Z",
+    "excerpt": "Our fleet operations team has produced a comprehensive video tutorial on maximizing cargo efficiency with the Corsair Heavy Cargo. From loading procedures to jump point navigation, this guide covers every aspect.",
+    "content": [
+      "Our fleet operations team has released a comprehensive visual guide for Corsair Heavy Cargo operators. Spanning over four hours of footage, the series covers everything from pre-flight checklist procedures to multi-stop jump point routing.",
+      "Volume one focuses on cargo loading and weight distribution. The Corsair's modular cargo grid allows for a wide variety of load configurations, but improper weight placement significantly impacts jump drive charge times and quantum travel stability. The guide walks through optimal layouts for common commodity types.",
+      "Volume two covers navigation and route planning. Fleet ops pilots demonstrate efficient quantum pathing between trade hubs, with particular attention to Stanton-to-Pyro corridor routing now that the Pyro relay network is fully operational.",
+      "The third volume addresses defensive flying — how to identify and evade interdiction attempts, coordinate with escort craft, and safely disengage from a hostile contact while protecting a full cargo hold. Drake does not encourage conflict, but realistic field conditions demand preparation.",
+      "The full series is available to registered Corsair operators through the Drake owner portal. A condensed highlight reel is also available on the public Comm-Link channel."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "VULTURE SALVAGE ARM: SOFTWARE UPDATE 1.9.2",
+    "channel": "engineering",
+    "type": "post",
+    "date": "2026-02-10T16:45:00Z",
+    "excerpt": "The latest software update for the Vulture's salvage arm system brings improved precision targeting, a new auto-sort module for recovered materials, and better integration with the onboard cargo management system.",
+    "content": [
+      "Drake Engineering has released software update 1.9.2 for the Vulture salvage platform, addressing a range of operator-reported issues and introducing three major feature additions requested by the salvage community.",
+      "The precision targeting system for the salvage arm has been completely rewritten. The new control stack reduces micro-jitter during close-range component extraction by 40%, allowing operators to separate high-value parts without damaging adjacent assemblies. This is particularly impactful when working Constellation or Hammerhead wrecks.",
+      "The auto-sort module is the headline feature of this update. Recovered materials are now automatically categorized into user-defined hold sections as they enter the cargo grid. Operators can configure up to eight sort rules based on material type, value tier, or destination buyer. Manual override remains available at any time.",
+      "Integration with the onboard cargo management system has also been improved. The manifest display now updates in real time as salvage enters the hold, and estimated value calculations pull from the latest market rate feed when in quantum range of a trade terminal.",
+      "Update 1.9.2 is available immediately via the Vulture's onboard software panel or through the Drake operator portal. A rollback to 1.9.1 is available for operators who encounter issues, though Drake recommends the update for all active Vulture units."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "MESSAGE FROM DRAKE CEO: EXPANSION INTO NEW SYSTEMS",
+    "channel": "transmission",
+    "type": "announcement",
+    "date": "2026-02-05T08:00:00Z",
+    "excerpt": "Drake Interplanetary is proud to announce the expansion of our operations into new territories. New service centers, parts depots, and sales offices will be operational by end of Q2 2026. Growth with purpose.",
+    "content": [
+      "To the Drake community — operators, pilots, salvagers, and every person who has trusted a Drake vessel to carry them through the verse — I want to speak to you directly about what comes next.",
+      "Drake Interplanetary has always been built on a simple premise: reliable ships for people who work for a living. No unnecessary luxury, no price gouging, no built-in obsolescence. That philosophy hasn't changed. But the verse is growing, and so are we.",
+      "By end of Q2 2026, Drake will open new service centers in three additional systems, supported by fully stocked parts depots and crewed by certified Drake technicians. Sales offices will follow before the end of the fiscal year, ensuring that wherever you operate, Drake support is within reach.",
+      "This expansion is funded entirely from operating revenue. We have not taken on additional debt, and we have not compromised our production margins or warranty programs to finance it. Drake grows when our customers succeed — and the numbers tell us you are succeeding.",
+      "Thank you for your continued trust. Build tough. Fly hard."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "DRAGONFLY ALL-TERRAIN REVIEW: MICROTECH TRIALS",
+    "channel": "fleetops",
+    "type": "post",
+    "date": "2026-01-30T11:00:00Z",
+    "excerpt": "Our test team put the Dragonfly through rigorous trials on frozen tundra and volcanic zones. The results confirm what Drake has always known — the Dragonfly outperforms in extreme conditions where others fail completely.",
+    "content": [
+      "Drake's internal test and evaluation team completed a two-week field review of the Dragonfly all-terrain bike on microTech's northern continent, using both the standard frozen tundra zones and the artificially heated volcanic test tracks at the Shubin facility.",
+      "The Dragonfly's open-frame hover system continued to perform without issue at temperatures as low as -78°C. Competing hover bikes from other manufacturers required heated component wraps and showed reduced thrust efficiency below -40°C. The Dragonfly required no modifications.",
+      "In the volcanic zone trials, the Dragonfly's ash filtration vents — a feature added in the 2024 production revision — prevented particulate ingestion that caused engine fouling in three rival units during the same course. The Drake unit completed the volcanic circuit without a single service stop.",
+      "Speed and agility metrics remain class-leading. The Dragonfly reached top speed 1.4 seconds faster than the nearest competitor in the sprint test, and its turning radius in tight canyon passes was unmatched across all tested units.",
+      "The Dragonfly continues to be the only hover bike Drake would recommend for serious planetary operations. It is not the cheapest, the prettiest, or the most comfortable. It is the one that works when everything else breaks down."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "HERALD DATA VAULT: NEW ENCRYPTION STANDARD",
+    "channel": "engineering",
+    "type": "post",
+    "date": "2026-01-25T15:20:00Z",
+    "excerpt": "Drake's data security team has integrated the new military-certified Quantum Encryption Standard into all Herald units manufactured from January 2026 onwards. Existing owners can visit any service center for the retrofit.",
+    "content": [
+      "Effective January 2026, all Herald data runner units leaving Drake manufacturing facilities are equipped with the Quantum Encryption Standard (QES-3), a military-certified encryption protocol jointly developed with UEEN information security contractors.",
+      "QES-3 replaces the previous AES-256 implementation with a layered key architecture that changes encryption keys every 90 seconds based on a hardware-generated entropy seed. This makes sustained decryption attacks against captured Herald data vaults computationally infeasible with currently available hardware.",
+      "The data vault's physical purge mechanism has also been upgraded. The new pyrotechnic charge system — an improvement over the previous electromagnetic wipe — guarantees total data destruction in under 200 milliseconds when triggered. Field tests confirmed complete data irrecoverability in all 48 test units.",
+      "Drake's data security team worked closely with independent red-team contractors to stress-test QES-3 before deployment. The protocol passed all attempted intrusion scenarios, including physical vault extraction, remote exploitation attempts, and social engineering simulations.",
+      "Existing Herald owners manufactured before January 2026 can schedule a QES-3 retrofit at any certified Drake service center. The retrofit takes approximately four hours and is covered under extended warranty for qualifying units. Contact your nearest service center for eligibility details."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "DRAKE JOINS STANTON INDUSTRIAL COALITION",
+    "channel": "dispatch",
+    "type": "announcement",
+    "date": "2026-01-20T09:30:00Z",
+    "excerpt": "Drake Interplanetary has officially joined the Stanton Industrial Coalition, a new alliance of industrial manufacturers committed to sustainable practices and worker safety standards throughout the system.",
+    "content": [
+      "Drake Interplanetary has formally signed the founding charter of the Stanton Industrial Coalition (SIC), joining eleven other major manufacturing and resource extraction companies in a system-wide commitment to standardized labor practices and environmental responsibility.",
+      "The SIC was formed in response to a series of industrial accidents across Stanton's asteroid belt operations in 2025, which resulted in 47 worker fatalities and significant criticism of existing safety oversight frameworks. Drake was among the first companies invited to participate in the founding working group.",
+      "Under the coalition agreement, all member companies commit to quarterly safety audits conducted by independent inspectors, mandatory incident reporting to a shared database, and minimum compensation standards for workers in hazardous roles. Drake already meets or exceeds all these standards, but formal accountability frameworks benefit the entire industry.",
+      "Drake's Chief Operations Officer represented the company at the signing ceremony held at the Hurston Dynamics headquarters in Lorville. She noted that the coalition represents a significant step toward industry self-regulation that could pre-empt more restrictive legislative measures.",
+      "Drake views this as a positive development for the long-term stability of Stanton's industrial sector. We will publish our quarterly SIC audit results publicly, as we believe transparency builds trust."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "INSIDE DRAKE: ENGINEERING TEAM SPOTLIGHT",
+    "channel": "dispatch",
+    "type": "video",
+    "date": "2026-01-15T14:00:00Z",
+    "excerpt": "Go behind the scenes at Drake's Port Olisar engineering facility. Meet the team responsible for the rugged, reliable vessels trusted by thousands of operators across the verse. An exclusive look at how we build.",
+    "content": [
+      "This month's Inside Drake feature takes us to the Port Olisar engineering facility, where the team responsible for Vulture and Herald final assembly and quality control has been working for the past six years.",
+      "The facility employs 340 full-time engineers, technicians, and quality inspectors. Unlike many orbital platforms that rely heavily on automated assembly, the Port Olisar facility maintains a high ratio of human technicians — a deliberate choice that Drake's engineering director says reflects the company's philosophy.",
+      "Every Vulture that leaves this facility has been hand-inspected at 47 checkpoints across the assembly process. Automated systems catch most defects, but the final sign-off is always human. That's not inefficient — that's accountability.",
+      "The facility's test bay is one of the most sophisticated in Stanton, capable of simulating atmospheric entry conditions, deep space thermal cycles, and combat-level structural stress. Every hull produced here undergoes at least six hours of simulated operational stress before it is approved for delivery.",
+      "The engineering team at Port Olisar has collectively logged over 2.3 million hours of vessel testing since the facility opened. Their work is the reason Drake's warranty claim rate remains the lowest in the mid-size hull category."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "BUCCANEER PERFORMANCE ANALYSIS: COMBAT REPORT",
+    "channel": "engineering",
+    "type": "post",
+    "date": "2026-01-10T10:00:00Z",
+    "excerpt": "An independent performance analysis of the Buccaneer light fighter confirms superior speed and agility metrics compared to similar class vessels. Full ballistic performance data and flight model comparisons included.",
+    "content": [
+      "An independent performance analysis commissioned by the Stanton Fighter Pilots Association has placed the Buccaneer at the top of its class across speed, agility, and sustained combat effectiveness metrics. Drake Interplanetary welcomes the findings.",
+      "The report evaluated nine light fighters currently available in Stanton, testing each across standardized scenarios: sprint speed from standing start, sustained velocity at maximum thruster output, 360-degree rotation time in all axes, and sustained damage output over a ten-minute engagement simulation.",
+      "The Buccaneer led in four of six primary categories. Maximum sprint velocity reached 1,240 m/s — 8% faster than the second-placed competitor. Yaw response time was the fastest recorded in the analysis at 0.31 seconds for a full 180-degree rotation.",
+      "Sustained ballistic damage output benefited from the Buccaneer's dual S3 nose-mounted hardpoints, which maintain a narrow convergence point that maximizes effective DPS against small and medium targets. The report notes this comes at the cost of firing arc flexibility, which pilots should account for in engagement planning.",
+      "The full analysis report is available through the Stanton Fighter Pilots Association's public research archive. Drake's engineering team is reviewing the data and will incorporate relevant feedback into the next scheduled Buccaneer production revision."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "DRAKE CUSTOMER SUPPORT: 24/7 COVERAGE EXPANSION",
+    "channel": "transmission",
+    "type": "post",
+    "date": "2026-01-05T08:00:00Z",
+    "excerpt": "Drake Interplanetary is expanding its customer support operations to provide true 24/7 coverage across all time zones. New support centers in three additional locations will reduce average response times by 40%.",
+    "content": [
+      "Drake Interplanetary is expanding its customer support network to deliver genuine 24/7 coverage for all registered operators across every time zone in Stanton. The expansion addresses a consistent feedback point from our community: response times outside standard UEE business hours have been unacceptable.",
+      "Three new support centers will open in Q1 2026, located in Arccorp's Area 18, New Babbage on microTech, and a remote orbital station near the Stanton-Pyro jump point to support operators working the new corridor. Each center will be staffed around the clock with certified Drake support technicians.",
+      "Current average response time for support tickets sits at 4.2 hours. Following the expansion, Drake's internal target is a maximum 90-minute response time for all priority support requests, with critical field emergencies escalated to real-time voice support within 15 minutes.",
+      "The expansion also includes an upgrade to the operator portal's diagnostic tools. Remote hull diagnostic capability — currently limited to engine and power systems — will extend to life support, avionics, and weapons systems by end of Q1, allowing technicians to diagnose many issues without requiring the vessel to dock at a service center.",
+      "We hear you. Drake operators deserve support that matches the toughness of their ships. These improvements are a direct result of operator feedback, and we are committed to continuing to listen."
+    ]
+  },
+  {
+    "id": 12,
+    "title": "PORT OLISAR SERVICE CENTER: GRAND REOPENING",
+    "channel": "fleetops",
+    "type": "announcement",
+    "date": "2025-12-20T12:00:00Z",
+    "excerpt": "After extensive renovations, the Drake Interplanetary service center at Port Olisar Station has officially reopened. The expanded facility features 24 service bays, a parts warehouse, and a dedicated Vulture maintenance suite.",
+    "content": [
+      "The Drake Interplanetary service center at Port Olisar Station has completed a comprehensive renovation and officially reopened its doors to operators across the Stanton system. The project took eight months and represents the largest single facility investment in Drake's service network history.",
+      "The renovated center expands from the original 9 service bays to a new total of 24. The additional bays are equipped with the latest alignment rigs, hull welding stations, and component test benches capable of handling vessels up to Corsair Heavy Cargo dimensions. Larger vessel support is available by appointment.",
+      "A dedicated Vulture maintenance suite has been added — the first of its kind at any Drake service center. The suite features a specialized salvage arm diagnostic rig, cargo grid recalibration tools, and a pressurized work environment designed around the Vulture's unique maintenance access points. Turnaround time for Vulture service visits is expected to drop by 60%.",
+      "The on-site parts warehouse now stocks over 12,000 Drake-certified components, covering the full current production lineup. Critical components are guaranteed same-day for in-warranty vessels, with most non-critical parts available within 48 hours for out-of-warranty repairs.",
+      "Drake thanks the Port Olisar community for their patience during the renovation period. All operators visiting during the reopening month receive a 15% discount on standard service labor."
+    ]
+  }
+]
