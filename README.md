@@ -87,6 +87,18 @@ npm run preview
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Pages
+
+### Home
+
+The home page is the main landing page of the site and is divided into three sections:
+
+- **Hero** — Full-width banner with the brand headline, a short tagline, and two call-to-action buttons (_Explore Fleet_ and _Contact Sales_).
+- **Fleet** — Responsive card grid that loads ships dynamically from Firestore. Includes full CRUD support: an _Add Ship_ button opens a modal form where you can create, edit, or delete any ship entry. Each card shows the ship image, name, designation, status, specs (crew, cargo, range), and features.
+- **Stats** — A row of corporate statistics (e.g. ships delivered, active pilots) sourced from `src/data/stats.json`.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Usage
 
 - The language switcher persists the selected language in localStorage.
