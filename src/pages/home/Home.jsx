@@ -153,7 +153,7 @@ export default function Home() {
         const docId = form.name.toLowerCase().replace(/\s+/g, "-");
         await setDoc(doc(db, "ships", docId), { ...payload, id: docId });
       }
-      setShowModal(false);
+      setIsModalOpen(false);
       fetchShips();
     } catch (error) {
       console.error("Error saving ship:", error);
@@ -233,13 +233,13 @@ export default function Home() {
 
       {/* CRUD Modal */}
       {isModalOpen && (
-        <div className="modal-overlay" onClick={() => setShowModal(false)}>
+        <div className="modal-overlay" onClick={() => setIsModalOpen(false)}>
           <div className="modal-container" onClick={(e) => e.stopPropagation()}>
             <div className="modal-header">
               <h2 className="modal-title">
                 {editingId ? t('fleet.editShip') : t('fleet.addShip')}
               </h2>
-              <button type="button" className="modal-close" onClick={() => setShowModal(false)}>✕</button>
+              <button type="button" className="modal-close" onClick={() => setIsModalOpen(false)}>✕</button>
             </div>
             <form onSubmit={handleSubmit} className="ship-form">
               <div className="form-row">
@@ -294,7 +294,7 @@ export default function Home() {
                 <textarea name="features" value={form.features} onChange={handleFormChange} placeholder={t('fleet.form.featuresPlaceholder')} />
               </label>
               <div className="form-actions">
-                <button type="button" className="cta-button secondary" onClick={() => setShowModal(false)}>
+                <button type="button" className="cta-button secondary" onClick={() => setIsModalOpen(false)}>
                   {t('fleet.cancel')}
                 </button>
                 <button type="submit" className="cta-button" disabled={isUploading}>
